@@ -8,6 +8,6 @@
     ├── Arduino                           # Arduino Communications and Sensors Code
     ├── Machine Learning Training         # Machine Learning Training codes - VGG16 & ResNet50
     ├── Main Raspberry Pi                 # Web-UI Flask and XML-RPC communication code
-    ├── Secondary Raspberry Pi                # XML-RPC Communication and prediction code
+    ├── Secondary Raspberry Pi            # XML-RPC Communication and prediction code
     └── README.md
 
