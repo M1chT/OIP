@@ -12,3 +12,8 @@ This project, the team have used Arduino, 2 Raspberry Pi to operate our iRinse. 
     ├── Secondary Raspberry Pi            # XML-RPC Communication and prediction code
     └── README.md
 
+## How to Use
+Arduino Folder: Import the arduino folder into the Arduino
+Machine Learning Training: Import the .ipynb files onto Google Collab/Juypter Notebook to run it
+Main Raspberry Pi: The code from this folder, import it into a Raspberry Pi and pip install the required libraries
+Secondary Raspberry Pi: The code from this folder, import into the same Raspberry Pi or different Raspberry Pi, just change the IP Address accordingly and pip install the required libraries
